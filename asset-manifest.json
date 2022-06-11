@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hamburger-app/static/css/main.5f568614.css",
+    "main.css": "/hamburger-app/static/css/main.c659c897.css",
     "main.js": "/hamburger-app/static/js/main.6793c9a9.js",
     "static/media/bread2.png": "/hamburger-app/static/media/bread2.99af7ba827f8c7490dae.png",
     "static/media/bred1.png": "/hamburger-app/static/media/bred1.4a468c5f97242ca833e1.png",
@@ -9,11 +9,11 @@
     "static/media/tomatoe.png": "/hamburger-app/static/media/tomatoe.b939a3835f0fb265ad88.png",
     "static/media/cheese.png": "/hamburger-app/static/media/cheese.56251b3f2871b88ac244.png",
     "index.html": "/hamburger-app/index.html",
-    "main.5f568614.css.map": "/hamburger-app/static/css/main.5f568614.css.map",
+    "main.c659c897.css.map": "/hamburger-app/static/css/main.c659c897.css.map",
     "main.6793c9a9.js.map": "/hamburger-app/static/js/main.6793c9a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f568614.css",
+    "static/css/main.c659c897.css",
     "static/js/main.6793c9a9.js"
   ]
 }
