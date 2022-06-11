@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/patricioreguera/hamburger-app/static/css/main.5f568614.css",
-    "main.js": "/patricioreguera/hamburger-app/static/js/main.ca5a7a7e.js",
-    "static/media/bread2.png": "/patricioreguera/hamburger-app/static/media/bread2.99af7ba827f8c7490dae.png",
-    "static/media/bred1.png": "/patricioreguera/hamburger-app/static/media/bred1.4a468c5f97242ca833e1.png",
-    "static/media/meat.png": "/patricioreguera/hamburger-app/static/media/meat.a204f49338fa26f72120.png",
-    "static/media/lettuce.png": "/patricioreguera/hamburger-app/static/media/lettuce.b80bd35022ee879808ac.png",
-    "static/media/tomatoe.png": "/patricioreguera/hamburger-app/static/media/tomatoe.b939a3835f0fb265ad88.png",
-    "static/media/cheese.png": "/patricioreguera/hamburger-app/static/media/cheese.56251b3f2871b88ac244.png",
-    "index.html": "/patricioreguera/hamburger-app/index.html",
-    "main.5f568614.css.map": "/patricioreguera/hamburger-app/static/css/main.5f568614.css.map",
-    "main.ca5a7a7e.js.map": "/patricioreguera/hamburger-app/static/js/main.ca5a7a7e.js.map"
+    "main.css": "/hamburger-app/static/css/main.5f568614.css",
+    "main.js": "/hamburger-app/static/js/main.6793c9a9.js",
+    "static/media/bread2.png": "/hamburger-app/static/media/bread2.99af7ba827f8c7490dae.png",
+    "static/media/bred1.png": "/hamburger-app/static/media/bred1.4a468c5f97242ca833e1.png",
+    "static/media/meat.png": "/hamburger-app/static/media/meat.a204f49338fa26f72120.png",
+    "static/media/lettuce.png": "/hamburger-app/static/media/lettuce.b80bd35022ee879808ac.png",
+    "static/media/tomatoe.png": "/hamburger-app/static/media/tomatoe.b939a3835f0fb265ad88.png",
+    "static/media/cheese.png": "/hamburger-app/static/media/cheese.56251b3f2871b88ac244.png",
+    "index.html": "/hamburger-app/index.html",
+    "main.5f568614.css.map": "/hamburger-app/static/css/main.5f568614.css.map",
+    "main.6793c9a9.js.map": "/hamburger-app/static/js/main.6793c9a9.js.map"
   },
   "entrypoints": [
     "static/css/main.5f568614.css",
-    "static/js/main.ca5a7a7e.js"
+    "static/js/main.6793c9a9.js"
   ]
 }
